@@ -9,7 +9,7 @@ This project leverages PyTorch, PyTorch Lightning, and Neptune.ai to train, eval
 The ambition of this project was to increase the model performance for small brain metastasis. 
 
 Currently, there are additional improvements to model training that is still in development. 
-- Augmentation (Mix N Match Approach with 3D Volumes) 
+- Augmentation ([MixMatch Approach with 3D Volumes](https://arxiv.org/pdf/1905.02249.pdf)) 
 - Hyperparameter Tuning 
 - Random Noise
 This repo is still in development. 
